@@ -17,11 +17,11 @@ Algoritmos usados:
 * Autoencoders
 
 Result:
-<img src="img/marketing/kmeans_inertia.png" width="128" title="Selection of K"/>
+<img src="img/marketing/kmeans_inertia.png" width="600" title="Selection of K"/>
 
-<img src="img/marketing/var_pca.png" width="300" title="Variance explained"/>
+<img src="img/marketing/var_pca.png" width="900" title="Variance explained"/>
 
-<img src="img/marketing/clusters.png" width="300" title="Clusters"/>
+<img src="img/marketing/clusters.png" width="900" title="Clusters"/>
 
 ## Sales
 
