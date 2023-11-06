@@ -24,11 +24,11 @@ Result:
 
 <img src="img/marketing/clusters.png" width="900" title="Clusters"/>
 
-<img src="img/marketing/components.png"width="900" title="Clusters"/>
+<img src="img/marketing/components.png" width="900" title="Clusters"/>
 
 From encoder:
 
-<img src="img/marketing/inertia_encoder.png" width="900" title="Clusters"/>
+<img src="img/marketing/inertia_encoder.png" width="400" title="Clusters"/>
 
 <img src="img/marketing/encoder_cluster.png" width="900" title="Clusters"/>
 
