@@ -17,7 +17,8 @@ Algoritmos usados:
 * Autoencoders
 
 Result:
-<img src="img/marketing/kmeans_inertia.png" width="600" title="Selection of K"/>
+
+<img src="img/marketing/kmeans_inertia.png" width="400" title="Selection of K"/>
 
 <img src="img/marketing/var_pca.png" width="900" title="Variance explained"/>
 
