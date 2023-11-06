@@ -4,17 +4,22 @@
 
 ## Marketing
 
-Resumen:
+Rummary:
 
-* En este estudio de caso, te han contratado como consultor de un banco en la ciudad de Nueva York.
-* El banco tiene datos extensos sobre sus clientes durante los últimos 6 meses.
-* *El equipo de marketing del banco desea lanzar una campaña de marketing publicitaria dirigida dividiendo a sus clientes en al menos 3 grupos distintos.*
+* In this study, you have been hired as a for a bank in New York.
+* The bank have extent dataset about their clients since six month.
+* The bank's marketing team wants to launch an advertising marketing campaign targeting its customers in a maximum of three different groups.
 
 Algoritmos usados:
 
 * K-means
 * PCA
 * Autoencoders
+
+Result:
+<img src="img/marketing/kmenas_inertia.png" width="128"/>
+<img src="img/marketing/var_pca.png" width="128"/>
+<img src="img/marketing/clusters.png" width="128"/>
 
 ## Sales
 
