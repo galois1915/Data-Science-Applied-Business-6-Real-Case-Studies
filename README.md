@@ -16,19 +16,11 @@ Algoritmos usados:
 * PCA
 * Autoencoders
 
-Result:
-
-<img src="img/marketing/kmeans_inertia.png" width="400" title="Selection of K"/>
-
-<img src="img/marketing/var_pca.png" width="900" title="Variance explained"/>
+From encoder and k-means:
 
 <img src="img/marketing/clusters.png" width="900" title="Clusters"/>
 
-<img src="img/marketing/components.png" width="900" height="400" title="Clusters"/>
-
-From encoder:
-
-<img src="img/marketing/inertia_encoder.png" width="400" title="Clusters"/>
+From encoder and k-means:
 
 <img src="img/marketing/encoder_cluster.png" width="900" title="Clusters"/>
 
