@@ -18,11 +18,11 @@ Algoritmos usados:
 
 From encoder and k-means:
 
-<img src="img/marketing/clusters.png" width="900" height="500" title="Clusters"/>
+<img src="img/marketing/clusters.png" width="900" title="Clusters"/>
 
 From encoder and k-means:
 
-<img src="img/marketing/encoder_cluster.png" width="900" height="500" title="Clusters"/>
+<img src="img/marketing/encoder_cluster.png" width="900" title="Clusters"/>
 
 ## Sales
 
