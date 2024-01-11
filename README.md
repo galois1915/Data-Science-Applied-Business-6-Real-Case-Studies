@@ -33,7 +33,17 @@ Summary:
 
 Algorithms:
 
-* 
+* Facebook Prophet
+
+Stores Analysis Dashboard:
+
+<img src="img/sales/store_analysis_dashboard.png" width="900" title="Clusters"/>
+
+Overview Analysis Dashboard:
+
+
+
+Predictions:
 
 
 ## Operations
