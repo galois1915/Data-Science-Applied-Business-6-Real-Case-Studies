@@ -16,11 +16,11 @@ Algorithms:
 * PCA
 * Autoencoders
 
-From K-means and PCA:
+Withour applying autoencoders:
 
-<img src="img/marketing/clusters.png" width="900" title="Clusters"/>
+<img src="img/marketing/panel.png" width="900" title="Clusters"/>
 
-From encoder, K-means, and PCA:
+Applying autoencoders:
 
 <img src="img/marketing/encoder_cluster.png" width="900" title="Clusters"/>
 
